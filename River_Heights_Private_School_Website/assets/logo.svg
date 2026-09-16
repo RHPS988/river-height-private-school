@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+<rect width="240" height="240" rx="36" fill="#071a3d"/>
+<path d="M120 25l78 28v57c0 50-32 82-78 105-46-23-78-55-78-105V53z" fill="#fff"/>
+<path d="M120 38l64 23v48c0 41-25 68-64 89-39-21-64-48-64-89V61z" fill="#0b2d63"/>
+<path d="M72 86h96v15H72zM83 111h74v15H83z" fill="#fff"/>
+<path d="M94 64h52v14H94z" fill="#fff"/>
+<text x="120" y="160" text-anchor="middle" font-family="Arial" font-weight="700" font-size="18" fill="#fff">RHPS</text>
+</svg>
